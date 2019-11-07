@@ -18,8 +18,7 @@ num1*num2
 end
 
 def modulo(num1, num2)
-remainder = num1.divmod(num2)
-puts remainder
+num1%num2
 end
 
 def square_root(num)
