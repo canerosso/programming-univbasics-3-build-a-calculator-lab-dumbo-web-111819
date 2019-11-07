@@ -19,7 +19,7 @@ end
 
 def modulo(num1, num2)
   #Build the method modulo that divides num1 into num2 and gives us the remainder of this calculation
-  #
+  #you can use either "%" or the "modulo" in-built functions in Ruby to accomplish this
 #num1%num2
 num1.modulo num2
 end
